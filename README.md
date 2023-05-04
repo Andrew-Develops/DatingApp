@@ -4,12 +4,16 @@ SoulSwipe is a fun and engaging dating application where users can create profil
 
 ## Table of Contents
 
-1. [Installation and Setup](#installation-and-setup)
+1. [Technologies and Libraries](#technologies-and-libraries)
+2. [Design Patterns](#design-patterns)
+3. [Installation and Setup](#installation-and-setup)
    - [Prerequisites](#prerequisites)
    - [Clone the Repository](#clone-the-repository)
    - [Install Dependencies](#install-dependencies)
    - [Run the Angular Application](#run-the-angular-application)
-2. [Usage](#usage)
+4. [Usage](#usage)
+5. [Author](#author)
+6. [Screenshots](#screenshots)
 
 ## Technologies and Libraries
 
@@ -88,3 +92,17 @@ This application was created by Cosmin Andrei Fuica.
 ## Screenshots
 
 Here are some screenshots showcasing the SoulSwipe dating app's interface and features:
+
+![Screenshot1](./images/screenshot1.jpg)
+
+![Screenshot2](./images/screenshot2.jpg)
+
+![Screenshot3](./images/screenshot3.jpg)
+
+![Screenshot4](./images/screenshot4.jpg)
+
+![Screenshot5](./images/screenshot5.jpg)
+
+![Screenshot6](./images/screenshot6.jpg)
+
+![Screenshot7](./images/screenshot7.jpg)
